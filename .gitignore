@@ -57,3 +57,7 @@ build-iPhoneSimulator/
 *.yaml
 
 test.db
+*.txt
+
+build_table.rb
+
