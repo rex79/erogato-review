@@ -1,2 +1,6 @@
 source 'https://rubygems.org'
 gem 'sinatra'
+gem 'json'
+gem 'activerecord'
+gem 'sqlite3'
+gem 'rackup'
